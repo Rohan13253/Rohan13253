@@ -1,13 +1,14 @@
 ### Hi, I'm Rohan 👋
 
-- 🔭 First year engeneering student and programming enthusiast
+- 🔭 First-year engineering student and programming enthusiast.
+-  📫 How to reach me: [Linkdin](https://www.linkedin.com/in/rohan-pawar-25022a2a7/)</br>
 
 <!--
 **Rohan13253/Rohan13253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 First year engeneering student and programming enthusiast 
+- 🔭 First-year engineering student and programming enthusiast 
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
