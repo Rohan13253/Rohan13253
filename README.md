@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan13253&hide=contribs,prs)
 -->
-
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan13253&show_icons=true&theme=radical)
