@@ -1,6 +1,6 @@
 ## Hi, I'm Rohan 👋
 
-###- 🔭 First-year engineering student and programming enthusiast.</br>
+<h3>- 🔭 First-year engineering student and programming enthusiast</h3>h3>.</br>
 ###-  📫 How to reach me: [Linkdin](https://www.linkedin.com/in/rohan-pawar-25022a2a7/)</br>
 
 <!--
