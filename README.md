@@ -1,7 +1,7 @@
 # Hi, I'm Rohan 👋
 
 <h3>- 🔭 First-year engineering student and programming enthusiast</h3>
-<h3>-  📫 How to reach me: [Linkdin](https://www.linkedin.com/in/rohan-pawar-25022a2a7/)</h3></br>
+<h3>-  📫 How to reach me: [Linkdin](https://www.linkedin.com/in/rohan-pawar-25022a2a7/)</br></h3>
 
 <!--
 **Rohan13253/Rohan13253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
