@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 Tech Stack
-- C, C++, Java, JavaScript (core concepts), Problem-solving in C++  
+- C, C++, Java, JavaScript,  
 
 ---
 
