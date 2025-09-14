@@ -1,20 +1,33 @@
-# Hi, I'm Rohan 👋
+# Hi, I'm Rohan 👋  
 
-- 🔭 Second-year engineering student and programming enthusiast
--  📫 How to reach me: [Linkdin](https://www.linkedin.com/in/rohan-pawar-25022a2a7/)
+🎓 Engineering student, exploring different areas of software and hardware development.  
+💡 Curious about how things work and enjoy learning by building projects.  
+🛠️ Comfortable with coding fundamentals and always looking to improve.  
 
-<!--
-**Rohan13253/Rohan13253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- C, C++, Java, JavaScript (core concepts), Problem-solving in C++  
 
-- 🔭 First-year engineering student and programming enthusiast 
-<!--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan13253&hide=contribs,prs)
--->
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan13253&show_icons=true&theme=radical)
+---
+
+## 🌱 Currently Learning
+- Data Structures & Algorithms  
+- Python fundamentals  
+
+---
+
+## 📬 Connect with Me
+- 📫 **LinkedIn:** [Rohan Pawar](https://www.linkedin.com/in/rohan-pawar-25022a2a7/)  
+- 💻 **GitHub:** [rohan13253](https://github.com/rohan13253)  
+
+---
+
+## 📊 GitHub Stats
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan13253&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan13253&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohan13253&theme=radical)  
+
+---
+
+⭐ *“Step by step, getting better every day.”*  
