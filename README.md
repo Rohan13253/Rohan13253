@@ -13,7 +13,8 @@
 
 ## 🌱 Currently Learning
 - Data Structures & Algorithms  
-- Python fundamentals  
+- Python fundamentals
+- React  
 
 ---
 
