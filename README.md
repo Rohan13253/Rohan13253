@@ -27,8 +27,7 @@
 ## 📊 GitHub Stats
 ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan13253&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan13253&layout=compact&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rohan13253)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rohan13253)](https://git.io/streak-stats)
 ---
 
 ⭐ *“Step by step, getting better every day.”*  
