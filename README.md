@@ -18,6 +18,7 @@
 - 💻 **Daily Coder** - practicing DSA and solving problems
 - 🤖 Exploring **AI-powered applications** and REST APIs
 - 🎯 Currently diving deep into **Spring Boot & Microservices**
+- Passionate about writing clean, efficient and maintainable code.
 
 <br clear="right"/>
 
